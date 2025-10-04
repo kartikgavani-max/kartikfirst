@@ -1,4 +1,2 @@
 # kartikfirst
-This is my first code,
-<br>
-Author - kartik gavani
+This is my first Git Repository,Author - kartik gavani
